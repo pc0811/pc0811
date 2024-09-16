@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pc0811
 - 🌱 I’m currently learning Data Science , Web Developement and Web3
-- 🤩 I’m looking to collaborate on my project GOLD DINAR
+- 🤩 I’m looking to collaborate on my project 
 - 📫 How to reach me padmchowdhary17@gmail.com or +91-9919915771
   
 
